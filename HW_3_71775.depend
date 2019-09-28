@@ -1,0 +1,257 @@
+# depslib dependency file v1.0
+1526233773 source:c:\users\jordantolev\desktop\project_hw\hw_3_71775\src\time.cpp
+	"Time.h"
+
+1525712619 c:\users\jordantolev\desktop\project_hw\hw_3_71775\include\time.h
+	<iostream>
+	<cstring>
+	<cassert>
+	<math.h>
+
+1526234406 source:c:\users\jordantolev\desktop\project_hw\hw_3_71775\main.cpp
+	"Time.h"
+	"Diapason.h"
+	"Task.h"
+	"Person.h"
+	"BusinessTask.h"
+	"Leisure.h"
+	"SchoolTask.h"
+	"Day.h"
+
+1526234444 source:c:\users\jordantolev\desktop\project_hw\hw_3_71775\src\diapason.cpp
+	"Diapason.h"
+
+1525712855 c:\users\jordantolev\desktop\project_hw\hw_3_71775\include\diapason.h
+	"Time.h"
+
+1526234180 c:\users\jordantolev\desktop\project_hw\hw_3_71775\include\task.h
+	"Diapason.h"
+
+1526234283 source:c:\users\jordantolev\desktop\project_hw\hw_3_71775\src\task.cpp
+	"Task.h"
+
+1526234559 source:c:\users\jordantolev\desktop\project_hw\hw_3_71775\src\person.cpp
+	"Person.h"
+
+1526234565 c:\users\jordantolev\desktop\project_hw\hw_3_71775\include\person.h
+	<cstring>
+	<iostream>
+
+1526234180 source:c:\users\jordantolev\desktop\project_hw\hw_3_71775\src\businesstask.cpp
+	"BusinessTask.h"
+
+1526234211 c:\users\jordantolev\desktop\project_hw\hw_3_71775\include\businesstask.h
+	"Task.h"
+	"Person.h"
+	<vector>
+
+1526235872 source:c:\users\jordantolev\desktop\project_hw\hw_3_71775\src\educationaltask.cpp
+	"EducationalTask.h"
+
+1526235864 c:\users\jordantolev\desktop\project_hw\hw_3_71775\include\educationaltask.h
+	"Task.h"
+
+1526233493 source:c:\users\jordantolev\desktop\project_hw\hw_3_71775\src\educationtask.cpp
+	"EducationTask.h"
+
+1526236616 c:\users\jordantolev\desktop\project_hw\hw_3_71775\include\educationtask.h
+	"Task.h"
+
+1526234305 source:c:\users\jordantolev\desktop\project_hw\hw_3_71775\src\schooltask.cpp
+	"SchoolTask.h"
+
+1526234180 c:\users\jordantolev\desktop\project_hw\hw_3_71775\include\schooltask.h
+	"Task.h"
+
+1526234180 source:c:\users\jordantolev\desktop\project_hw\hw_3_71775\src\leisure.cpp
+	"Leisure.h"
+
+1526234180 c:\users\jordantolev\desktop\project_hw\hw_3_71775\include\leisure.h
+	"Task.h"
+
+1526236136 source:c:\users\jordantolev\desktop\project_hw\hw_3_71775\src\day.cpp
+	"Day.h"
+
+1526236136 c:\users\jordantolev\desktop\project_hw\hw_3_71775\include\day.h
+	"Task.h"
+	"BusinessTask.h"
+	"SchoolTask.h"
+	"Leisure.h"
+	<cassert>
+	<vector>
+
+1526236592 source:c:\users\jordantolev\desktop\project_hw\hw_3_71775\src\month.cpp
+	"Month.h"
+
+1526236592 c:\users\jordantolev\desktop\project_hw\hw_3_71775\include\month.h
+	"Day.h"
+
+1526568668 source:c:\users\ivan\desktop\hw\hw_1_71775\main.cpp
+	"Time.h"
+	"Diapason.h"
+	"Task.h"
+	"Person.h"
+	"BusinessTask.h"
+	"Leisure.h"
+	"SchoolTask.h"
+	"Day.h"
+	"Month.h"
+	"Calendar.h"
+
+1525716219 c:\users\ivan\desktop\hw\hw_1_71775\include\time.h
+	<iostream>
+	<cstring>
+	<cassert>
+	<math.h>
+
+1525716455 c:\users\ivan\desktop\hw\hw_1_71775\include\diapason.h
+	"Time.h"
+
+1526237780 c:\users\ivan\desktop\hw\hw_1_71775\include\task.h
+	"Diapason.h"
+
+1526238165 c:\users\ivan\desktop\hw\hw_1_71775\include\person.h
+	<cstring>
+	<iostream>
+
+1526555313 c:\users\ivan\desktop\hw\hw_1_71775\include\businesstask.h
+	"Task.h"
+	"Person.h"
+	<vector>
+
+1526237780 c:\users\ivan\desktop\hw\hw_1_71775\include\leisure.h
+	"Task.h"
+
+1526237780 c:\users\ivan\desktop\hw\hw_1_71775\include\schooltask.h
+	"Task.h"
+
+1526568238 c:\users\ivan\desktop\hw\hw_1_71775\include\day.h
+	"Task.h"
+	"BusinessTask.h"
+	"SchoolTask.h"
+	"Leisure.h"
+	<cassert>
+	<vector>
+
+1526237780 source:c:\users\ivan\desktop\hw\hw_1_71775\src\businesstask.cpp
+	"BusinessTask.h"
+
+1526238044 source:c:\users\ivan\desktop\hw\hw_1_71775\src\diapason.cpp
+	"Diapason.h"
+
+1526559190 source:c:\users\ivan\desktop\hw\hw_1_71775\src\leisure.cpp
+	"Leisure.h"
+
+1526568227 source:c:\users\ivan\desktop\hw\hw_1_71775\src\month.cpp
+	"Month.h"
+
+1526568090 c:\users\ivan\desktop\hw\hw_1_71775\include\month.h
+	"Day.h"
+	<cassert>
+
+1526237905 source:c:\users\ivan\desktop\hw\hw_1_71775\src\schooltask.cpp
+	"SchoolTask.h"
+
+1526559145 source:c:\users\ivan\desktop\hw\hw_1_71775\src\task.cpp
+	"Task.h"
+
+1526237373 source:c:\users\ivan\desktop\hw\hw_1_71775\src\time.cpp
+	"Time.h"
+
+1526568668 source:c:\users\ivan\desktop\hw\hw_1_71775\src\calendar.cpp
+	"Calendar.h"
+
+1526566349 c:\users\ivan\desktop\hw\hw_1_71775\include\calendar.h
+	"Month.h"
+
+1526568227 source:c:\users\ivan\desktop\hw\hw_1_71775\src\day.cpp
+	"Day.h"
+
+1526555193 source:c:\users\ivan\desktop\hw\hw_1_71775\src\person.cpp
+	"Person.h"
+
+1526754186 source:c:\users\jordantolev\desktop\hw3\hw_1_71775\main.cpp
+	"Time.h"
+	"Diapason.h"
+	"Task.h"
+	"Person.h"
+	"BusinessTask.h"
+	"Leisure.h"
+	"SchoolTask.h"
+	"Day.h"
+	"Month.h"
+	"Calendar.h"
+
+1525712619 c:\users\jordantolev\desktop\hw3\hw_1_71775\include\time.h
+	<iostream>
+	<cstring>
+	<cassert>
+	<math.h>
+
+1525712855 c:\users\jordantolev\desktop\hw3\hw_1_71775\include\diapason.h
+	"Time.h"
+
+1526234180 c:\users\jordantolev\desktop\hw3\hw_1_71775\include\task.h
+	"Diapason.h"
+
+1526234565 c:\users\jordantolev\desktop\hw3\hw_1_71775\include\person.h
+	<cstring>
+	<iostream>
+
+1526551713 c:\users\jordantolev\desktop\hw3\hw_1_71775\include\businesstask.h
+	"Task.h"
+	"Person.h"
+	<vector>
+
+1526234180 c:\users\jordantolev\desktop\hw3\hw_1_71775\include\leisure.h
+	"Task.h"
+
+1526234180 c:\users\jordantolev\desktop\hw3\hw_1_71775\include\schooltask.h
+	"Task.h"
+
+1526235114 c:\users\jordantolev\desktop\hw3\hw_1_71775\include\day.h
+	"Task.h"
+	"BusinessTask.h"
+	"SchoolTask.h"
+	"Leisure.h"
+	<cassert>
+	<vector>
+
+1526753957 c:\users\jordantolev\desktop\hw3\hw_1_71775\include\month.h
+	"Day.h"
+	<cassert>
+
+1526756184 c:\users\jordantolev\desktop\hw3\hw_1_71775\include\calendar.h
+	"Month.h"
+	<cassert>
+
+1526753681 source:c:\users\jordantolev\desktop\hw3\hw_1_71775\src\businesstask.cpp
+	"BusinessTask.h"
+
+1526754273 source:c:\users\jordantolev\desktop\hw3\hw_1_71775\src\calendar.cpp
+	"Calendar.h"
+
+1526753225 source:c:\users\jordantolev\desktop\hw3\hw_1_71775\src\day.cpp
+	"Day.h"
+
+1526234444 source:c:\users\jordantolev\desktop\hw3\hw_1_71775\src\diapason.cpp
+	"Diapason.h"
+
+1526753630 source:c:\users\jordantolev\desktop\hw3\hw_1_71775\src\leisure.cpp
+	"Leisure.h"
+
+1526754124 source:c:\users\jordantolev\desktop\hw3\hw_1_71775\src\month.cpp
+	"Month.h"
+
+1526551593 source:c:\users\jordantolev\desktop\hw3\hw_1_71775\src\person.cpp
+	"Person.h"
+
+1526753681 source:c:\users\jordantolev\desktop\hw3\hw_1_71775\src\schooltask.cpp
+	"SchoolTask.h"
+
+1526235691 source:c:\users\jordantolev\desktop\hw3\hw_1_71775\src\task.cpp
+	"Task.h"
+
+1526233773 source:c:\users\jordantolev\desktop\hw3\hw_1_71775\src\time.cpp
+	"Time.h"
+
